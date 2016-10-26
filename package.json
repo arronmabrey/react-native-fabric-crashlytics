@@ -36,6 +36,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "source-map": "^0.5.6",
     "stacktrace-js": "^1.1.0"
   },
   "peerDependencies": {
